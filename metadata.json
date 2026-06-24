@@ -1,0 +1,6 @@
+{
+  "name": "EverGTD",
+  "description": "A minimalist offline-first Getting Things Done (GTD) task manager with Persian/Jalali support, Location-based reminders, Google Calendar sync, and AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
